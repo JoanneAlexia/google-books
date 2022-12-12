@@ -1,0 +1,9 @@
+.MaxDisplay {
+  width: 90vw;
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px 0;
+  &_label {
+    margin-right: 5px;
+  }
+}
